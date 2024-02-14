@@ -32,7 +32,7 @@ Program ini memiliki 6 kolom yaitu kolom nomor, ID, nama anggota, nama bidang, n
 - Melaksanakan opsi yang dipilih dan menampilkan tabel yang diperbarui.
 - Berlanjut hingga pengguna memilih untuk keluar.
 
-## Contoh Pengaplikasian Program Ini
+## Dokumentasi Saat Program Dijalankan
 
 ### Tabel Awal
 ![Tabel Awal](screenshots/initial_table.png)
