@@ -35,13 +35,13 @@ Program ini memiliki 6 kolom yaitu kolom nomor, ID, nama anggota, nama bidang, n
 ## Dokumentasi Saat Program Dijalankan
 
 ### Tabel Awal
-![Tabel Awal](screenshots/initial_table.png)
+![Tabel Awal](eksekusi/Tabel_awal.png)
 
 ### Menambah Anggota
-![Menambah Anggota](screenshots/adding_member.png)
+![Menambah Anggota](eksekusi/Tambah.png)
 
 ### Mengedit Anggota
-![Mengedit Anggota](screenshots/editing_member.png)
+![Mengedit Anggota](eksekusi/Ubah.png)
 
 ### Menghapus Anggota
-![Menghapus Anggota](screenshots/deleting_member.png)
+![Menghapus Anggota](eksekusi/Hapus.png)
