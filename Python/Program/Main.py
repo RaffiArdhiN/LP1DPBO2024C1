@@ -99,11 +99,10 @@ def main():
                 human.get_namPar(), maxNamParLength + 2
             ))
 
-    # Menampilkan pesan penutup program
+    # Menampilkan pesan penutup
     print("---------------------------")
     print("Sampai jumpa lagi XD")
     print("---------------------------")
     
-# Memanggil fungsi main jika file ini dijalankan sebagai program utama
 if __name__ == "__main__":
     main()
