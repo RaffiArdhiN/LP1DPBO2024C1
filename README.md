@@ -1,7 +1,9 @@
 # Sistem Manajemen Data Anggota DPR
 
-## Gambaran Umum
+## Desain Program
 Program ini mengelola data anggota DPR Republik Indonesia untuk periode 2019/2024. Ini memungkinkan pengguna untuk melihat, menambah, mengedit, dan menghapus data anggota.
+
+Program ini memiliki 6 kolom yaitu kolom nomor, ID, nama anggota, nama bidang, nama partai (7 kolom untuk bahasa PHP dengan tambahan kolom foto profil).
 
 ## Cara Menjalankan
 1. Clone repositori ke mesin lokal Anda.
@@ -43,8 +45,3 @@ Program ini mengelola data anggota DPR Republik Indonesia untuk periode 2019/202
 
 ### Menghapus Anggota
 ![Menghapus Anggota](screenshots/deleting_member.png)
-
-## Kesimpulan
-Program ini menyediakan antarmuka sederhana untuk mengelola data anggota MPR dengan efisien.
-
-Jangan ragu untuk berkontribusi dan meningkatkan program!
